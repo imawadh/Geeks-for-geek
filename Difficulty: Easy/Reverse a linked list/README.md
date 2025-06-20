@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/reverse-a-linked-list/0">Reverse a linked list</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Given the <strong>head</strong> of a linked list, the task is to reverse this list and return the <strong>reversed</strong> <strong>head</strong>.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1">Reverse a linked list</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;">Given the <strong>head</strong> of a linked list, the task is to reverse this list and return the <strong>reversed</strong> <strong>head</strong>.</span></p>
 <p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
 <pre><span style="font-size: 14pt;"><strong>Input: </strong>head: 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; NULL
 <strong>Output: </strong>head: 4 -&gt; 3 -&gt; 2 -&gt; 1 -&gt; NULL<strong>
